@@ -1,5 +1,7 @@
 ## Configuring CI/CD AWS Pipeline
-
+                        
+  Here we add CodeDeploy to the pipeline and run to confirm the output success.
+  
             1. Go to Code pipeline         
             2. Click Code pipeline Application - sample-python-project      
             
