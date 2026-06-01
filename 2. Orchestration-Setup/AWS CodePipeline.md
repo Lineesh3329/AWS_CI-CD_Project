@@ -1,4 +1,5 @@
-## Configuring AWS CodePipeline
+## Orchestration- AWS CodePipeline
+Orchestration - CodePipeline: The conductor. It links all the tools together, managing the flow from code commit through the build and deployment stages
 
 1. Goto AWS Console
 
