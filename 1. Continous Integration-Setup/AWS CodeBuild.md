@@ -1,4 +1,5 @@
 # Continous Integration-Setup
+Continuous Integration (CI) - CodeBuild: Compiles and tests code automatically every time a change is pushed.
 ## AWS CodeBuild Setup:
 1. Go to AWS Console
 
