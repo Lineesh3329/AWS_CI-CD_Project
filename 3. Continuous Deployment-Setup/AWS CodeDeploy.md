@@ -65,7 +65,7 @@ Continuous Deployment (CD) - CodeDeploy: Automatically deploys the tested, packa
 
 ----
 
-After Attaching the Role Restart the agent in EC2 Instances by using sudo service codedeploy-agent restart
+After Attaching the Role Restart the agent in EC2 Instances by using `sudo service codedeploy-agent restart`
 
 5. Create **CodeDeploy Application**
 
