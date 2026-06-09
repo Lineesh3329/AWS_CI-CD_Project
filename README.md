@@ -1,4 +1,4 @@
-# `AWS DevOps Infrastructure Project with Secure VPC Architecture, NAT Gateway, ASG and ALB`
+# `Building a CI/CD Workflow Using AWS DevOps Services`
 
 ## About the Project
 This Project demonstrates the implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline on AWS using Docker containers.
